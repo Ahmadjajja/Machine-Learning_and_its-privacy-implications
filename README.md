@@ -1,118 +1,79 @@
 # Machine Learning from Scratch & Its Privacy Implications
 
-This six-week course aims to teach the fundamentals of machine learning from scratch while also addressing the privacy implications at each step of the process. The curriculum is designed to provide a comprehensive understanding of machine learning techniques and their privacy considerations, with each week comprising 5 one-hour classes.
+This course aims to teach the fundamentals of machine learning from scratch while also addressing the privacy implications at each step of the process. The curriculum is designed to provide a comprehensive understanding of machine learning techniques and their privacy considerations.
 
-## Week 1
-### Class 1: Introduction to Machine Learning
-- What is Machine Learning?
-- Applications of Machine Learning
+## Module 1: Introduction to Machine Learning
+- **What is Machine Learning?**
+- **Applications of Machine Learning**
+- **Machine Learning Development Life Cycle (MLDLC)**
+- **Importance of Machine Learning in the Generative AI Era (Optional)**
+- **Introduction to Differential Privacy (DP)**
+  - **Definition and Importance**
 
-### Class 2: Machine Learning Development Life Cycle (MLDLC)
-- Overview of MLDLC
-- Importance of Machine Learning in the Generative AI Era (Optional)
+## Module 2: Python for Machine Learning (Optional)
+- **Introduction to Python Programming (if needed)**
+- **Libraries for Data Analysis: Pandas, NumPy**
+- **Introduction to Privacy Libraries in Python**
+  - **Libraries for Implementing Differential Privacy: PySyft, PyTorch Opacus**
 
-### Class 3: Introduction to Differential Privacy (DP)
-- Definition and Importance
+## Module 3: Data Preprocessing and Feature Engineering
+- **Data Analysis and Preprocessing Techniques**
+- **Data Cleaning: Handling Missing Data, Categorical Features, Outliers**
+- **Data Visualization with Seaborn and Matplotlib**
+- **Feature Engineering: Feature Transformation, Selection, Construction, and Extraction**
+- **Dimensionality Reduction with PCA (Principal Component Analysis)**
+- **Privacy-Preserving Data Preprocessing**
+  - **Anonymization Techniques**
+  - **Privacy Risks in Data Preprocessing**
 
-### Class 4: Python for Machine Learning (Optional)
-- Introduction to Python Programming (if needed)
+## Module 4: Machine Learning Fundamentals
+- **Learning Approaches: Batch vs Online, Model-based vs Instance-based**
+- **Types of Machine Learning: Supervised, Unsupervised, Semi-Supervised, Reinforcement Learning**
+- **Privacy Risks in Different Learning Approaches**
+  - **Supervised Learning: Risks of Label Leakage**
+  - **Unsupervised Learning: Risks in Clustering and Association**
 
-### Class 5: Libraries for Data Analysis
-- Pandas, NumPy
-- Introduction to Privacy Libraries in Python: PySyft, PyTorch Opacus
+## Module 5: Supervised Learning Algorithms
+- **Introduction to Supervised Learning**
+- **Regression vs. Classification**
+- **Regression Algorithms: Simple Linear Regression, Multilinear Regression, Polynomial Regression (with applications like house price prediction)**
+- **Classification Algorithms: Decision Trees (Decision Tree Classifier, Random Forest), K-Nearest Neighbors (KNN), Naive Bayes, Support Vector Machines (SVM)**
+- **Differential Privacy in Supervised Learning**
+  - **Noise Addition in Regression Models**
+  - **Privacy-Preserving Decision Trees**
 
-## Week 2
-### Class 1: Data Preprocessing Techniques
-- Data Analysis and Preprocessing Techniques
+## Module 6: Model Evaluation and Optimization
+- **Regression and Classification Metrics**
+- **Imbalanced Data in Machine Learning**
+- **Underfitting vs Overfitting**
+- **Ensemble Methods: Bagging, Boosting**
+- **Hyperparameter Tuning**
+- **Privacy-Preserving Model Evaluation**
+  - **Metrics for Assessing Privacy Risks**
+  - **Differential Privacy in Model Optimization**
 
-### Class 2: Data Cleaning
-- Handling Missing Data, Categorical Features, Outliers
+## Module 7: Model Interpretation and Deployment
+- **Model Interpretability and Explainable AI (XAI)**
+- **Model Deployment with Flask (or similar framework)**
+- **Privacy Concerns in Model Interpretation**
+  - **Risks of Exposing Sensitive Information through Interpretability**
+- **Privacy-Preserving Model Deployment**
+  - **Secure Multi-Party Computation for Model Serving**
 
-### Class 3: Data Visualization
-- Seaborn and Matplotlib
-
-### Class 4: Feature Engineering
-- Feature Transformation, Selection, Construction, and Extraction
-
-### Class 5: Dimensionality Reduction
-- Principal Component Analysis (PCA)
-- Privacy-Preserving Data Preprocessing: Anonymization Techniques
-
-## Week 3
-### Class 1: Machine Learning Fundamentals
-- Learning Approaches: Batch vs Online, Model-based vs Instance-based
-
-### Class 2: Types of Machine Learning
-- Supervised, Unsupervised, Semi-Supervised, Reinforcement Learning
-
-### Class 3: Privacy Risks in Different Learning Approaches
-- Supervised Learning: Risks of Label Leakage
-- Unsupervised Learning: Risks in Clustering and Association
-
-### Class 4: Introduction to Supervised Learning
-- Regression vs. Classification
-
-### Class 5: Regression Algorithms
-- Simple Linear Regression, Multilinear Regression, Polynomial Regression (with applications like house price prediction)
-
-## Week 4
-### Class 1: Classification Algorithms
-- Decision Trees (Decision Tree Classifier, Random Forest)
-- K-Nearest Neighbors (KNN)
-
-### Class 2: Classification Algorithms (Continued)
-- Naive Bayes, Support Vector Machines (SVM)
-
-### Class 3: Differential Privacy in Supervised Learning
-- Noise Addition in Regression Models
-- Privacy-Preserving Decision Trees
-
-### Class 4: Model Evaluation Metrics
-- Regression and Classification Metrics
-
-### Class 5: Imbalanced Data in Machine Learning
-- Underfitting vs Overfitting
-
-## Week 5
-### Class 1: Ensemble Methods
-- Bagging, Boosting
-
-### Class 2: Hyperparameter Tuning
-- Techniques and Tools
-
-### Class 3: Privacy-Preserving Model Evaluation
-- Metrics for Assessing Privacy Risks
-- Differential Privacy in Model Optimization
-
-### Class 4: Model Interpretability
-- Explainable AI (XAI)
-
-### Class 5: Model Deployment
-- Deployment with Flask (or similar framework)
-- Privacy Concerns in Model Interpretation
-
-## Week 6
-### Class 1: Privacy-Preserving Model Deployment
-- Secure Multi-Party Computation for Model Serving
-
-### Class 2: Unsupervised Machine Learning Goals
-- Goals (e.g., clustering, dimensionality reduction)
-- Common applications (e.g., customer segmentation, anomaly detection)
-
-### Class 3: Unsupervised Learning Algorithms
-- K-Means Clustering
-- Hierarchical Clustering
-
-### Class 4: Unsupervised Learning Algorithms (Continued)
-- Principal Component Analysis (PCA) for dimensionality reduction
-- Association Rule Learning (e.g., Apriori algorithm)
-
-### Class 5: Privacy Risks in Unsupervised Learning
-- Privacy-Preserving Clustering Techniques
-- Anonymization in Dimensionality Reduction
+## Module 8: Unsupervised Machine Learning 
+- **Unsupervised Learning goals (e.g., clustering, dimensionality reduction)**
+- **Common applications (e.g., customer segmentation, anomaly detection)**
+- **Specific algorithms:**
+  - **K-Means Clustering**
+  - **Hierarchical Clustering**
+  - **Principal Component Analysis (PCA) for dimensionality reduction**
+  - **Association Rule Learning (e.g., Apriori algorithm)**
+- **Privacy Risks in Unsupervised Learning**
+  - **Privacy-Preserving Clustering Techniques**
+  - **Anonymization in Dimensionality Reduction**
 
 ## Additional Topics (Optional)
-- Unit Testing, Feature Store, Model Registries
-- Containerization with Docker
-- Introduction to Time Series Analysis
-- Machine Learning Competitions
+- **Unit Testing, Feature Store, Model Registries**
+- **Containerization with Docker**
+- **Introduction to Time Series Analysis**
+- **Machine Learning Competitions**
