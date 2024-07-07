@@ -1,172 +1,118 @@
-# Privacy in Machine Learning - Basic Course
+# Machine Learning from Scratch & Its Privacy Implications
 
-## Course Overview
-This course introduces the basics of privacy and its importance in the context of machine learning. Over six weeks, students will learn about data anonymization, differential privacy, federated learning, secure multi-party computation, homomorphic encryption, and real-world applications of privacy-preserving machine learning techniques.
+This six-week course aims to teach the fundamentals of machine learning from scratch while also addressing the privacy implications at each step of the process. The curriculum is designed to provide a comprehensive understanding of machine learning techniques and their privacy considerations, with each week comprising 5 one-hour classes.
 
-### Week 1: Introduction to Privacy and Machine Learning
-**Introduction:** This week will introduce students to the basics of privacy and its importance in the context of machine learning. We'll cover fundamental concepts to ensure a solid foundation.
+## Week 1
+### Class 1: Introduction to Machine Learning
+- What is Machine Learning?
+- Applications of Machine Learning
 
-#### Class 1: Introduction to Privacy
-- What is privacy?
-- Importance of privacy in the digital age
-- Examples of privacy breaches
+### Class 2: Machine Learning Development Life Cycle (MLDLC)
+- Overview of MLDLC
+- Importance of Machine Learning in the Generative AI Era (Optional)
 
-#### Class 2: Basics of Machine Learning
-- What is machine learning?
-- Types of machine learning (supervised, unsupervised, reinforcement)
-- Real-world applications of machine learning
+### Class 3: Introduction to Differential Privacy (DP)
+- Definition and Importance
 
-#### Class 3: Data in Machine Learning
-- Importance of data in machine learning
-- Types of data (structured, unstructured)
-- Introduction to data privacy
+### Class 4: Python for Machine Learning (Optional)
+- Introduction to Python Programming (if needed)
 
-#### Class 4: Data Collection and Privacy
-- Methods of data collection
-- Ethical considerations in data collection
-- Overview of data protection laws (GDPR, CCPA)
+### Class 5: Libraries for Data Analysis
+- Pandas, NumPy
+- Introduction to Privacy Libraries in Python: PySyft, PyTorch Opacus
 
-#### Class 5: Introduction to Privacy in Machine Learning
-- Why privacy matters in machine learning
-- Privacy challenges in machine learning
-- Overview of privacy-preserving techniques
+## Week 2
+### Class 1: Data Preprocessing Techniques
+- Data Analysis and Preprocessing Techniques
 
-### Week 2: Data Anonymization and De-identification
-**Introduction:** This week focuses on techniques to protect individual privacy in datasets through anonymization and de-identification.
+### Class 2: Data Cleaning
+- Handling Missing Data, Categorical Features, Outliers
 
-#### Class 1: Data Anonymization
-- What is data anonymization?
-- Techniques for data anonymization (masking, generalization)
-- Benefits and limitations
+### Class 3: Data Visualization
+- Seaborn and Matplotlib
 
-#### Class 2: Data De-identification
-- What is data de-identification?
-- Techniques for de-identification (pseudonymization)
-- Differences between anonymization and de-identification
+### Class 4: Feature Engineering
+- Feature Transformation, Selection, Construction, and Extraction
 
-#### Class 3: k-Anonymity
-- Introduction to k-anonymity
-- Techniques to achieve k-anonymity
-- Case studies and examples
+### Class 5: Dimensionality Reduction
+- Principal Component Analysis (PCA)
+- Privacy-Preserving Data Preprocessing: Anonymization Techniques
 
-#### Class 4: l-Diversity
-- Introduction to l-diversity
-- Enhancing privacy beyond k-anonymity
-- Practical examples and exercises
+## Week 3
+### Class 1: Machine Learning Fundamentals
+- Learning Approaches: Batch vs Online, Model-based vs Instance-based
 
-#### Class 5: t-Closeness
-- Understanding t-closeness
-- Ensuring distribution similarity in datasets
-- Real-world applications and exercises
+### Class 2: Types of Machine Learning
+- Supervised, Unsupervised, Semi-Supervised, Reinforcement Learning
 
-### Week 3: Differential Privacy
-**Introduction:** This week covers the concept of differential privacy, a powerful technique to ensure privacy while analyzing data.
+### Class 3: Privacy Risks in Different Learning Approaches
+- Supervised Learning: Risks of Label Leakage
+- Unsupervised Learning: Risks in Clustering and Association
 
-#### Class 1: Introduction to Differential Privacy
-- What is differential privacy?
-- Basic principles and definitions
-- Importance in machine learning
+### Class 4: Introduction to Supervised Learning
+- Regression vs. Classification
 
-#### Class 2: Mechanisms of Differential Privacy
-- Randomized algorithms
-- Laplace and Gaussian mechanisms
-- Adding noise to data
+### Class 5: Regression Algorithms
+- Simple Linear Regression, Multilinear Regression, Polynomial Regression (with applications like house price prediction)
 
-#### Class 3: Differential Privacy in Practice
-- Implementing differential privacy
-- Case studies and examples
-- Hands-on exercises
+## Week 4
+### Class 1: Classification Algorithms
+- Decision Trees (Decision Tree Classifier, Random Forest)
+- K-Nearest Neighbors (KNN)
 
-#### Class 4: Trade-offs in Differential Privacy
-- Balancing privacy and utility
-- Privacy budget and its management
-- Practical considerations
+### Class 2: Classification Algorithms (Continued)
+- Naive Bayes, Support Vector Machines (SVM)
 
-#### Class 5: Tools and Libraries for Differential Privacy
-- Overview of tools (Google’s DP library, PySyft)
-- Practical implementation using libraries
-- Hands-on coding session
+### Class 3: Differential Privacy in Supervised Learning
+- Noise Addition in Regression Models
+- Privacy-Preserving Decision Trees
 
-### Week 4: Federated Learning
-**Introduction:** This week introduces federated learning, a decentralized approach to training machine learning models while preserving data privacy.
+### Class 4: Model Evaluation Metrics
+- Regression and Classification Metrics
 
-#### Class 1: Introduction to Federated Learning
-- What is federated learning?
-- Benefits and challenges
-- Real-world applications
+### Class 5: Imbalanced Data in Machine Learning
+- Underfitting vs Overfitting
 
-#### Class 2: Federated Learning Architecture
-- Centralized vs. decentralized training
-- Overview of federated learning architecture
-- Communication protocols
+## Week 5
+### Class 1: Ensemble Methods
+- Bagging, Boosting
 
-#### Class 3: Privacy in Federated Learning
-- Ensuring privacy in federated learning
-- Techniques to enhance privacy (secure aggregation, differential privacy)
-- Practical examples
+### Class 2: Hyperparameter Tuning
+- Techniques and Tools
 
-#### Class 4: Implementing Federated Learning
-- Tools and frameworks (TensorFlow Federated, PySyft)
-- Practical implementation using a framework
-- Hands-on coding session
+### Class 3: Privacy-Preserving Model Evaluation
+- Metrics for Assessing Privacy Risks
+- Differential Privacy in Model Optimization
 
-#### Class 5: Case Studies in Federated Learning
-- Real-world case studies
-- Lessons learned and best practices
-- Discussion and Q&A
+### Class 4: Model Interpretability
+- Explainable AI (XAI)
 
-### Week 5: Secure Multi-Party Computation and Homomorphic Encryption
-**Introduction:** This week delves into advanced cryptographic techniques for privacy-preserving machine learning.
+### Class 5: Model Deployment
+- Deployment with Flask (or similar framework)
+- Privacy Concerns in Model Interpretation
 
-#### Class 1: Introduction to Secure Multi-Party Computation (SMPC)
-- What is SMPC?
-- Importance in privacy-preserving ML
-- Basic concepts and examples
+## Week 6
+### Class 1: Privacy-Preserving Model Deployment
+- Secure Multi-Party Computation for Model Serving
 
-#### Class 2: Protocols for SMPC
-- Overview of SMPC protocols (GMW, Yao’s Garbled Circuits)
-- Practical examples
-- Hands-on exercises
+### Class 2: Unsupervised Machine Learning Goals
+- Goals (e.g., clustering, dimensionality reduction)
+- Common applications (e.g., customer segmentation, anomaly detection)
 
-#### Class 3: Introduction to Homomorphic Encryption
-- What is homomorphic encryption?
-- Types of homomorphic encryption (partial, fully)
-- Importance in privacy-preserving ML
+### Class 3: Unsupervised Learning Algorithms
+- K-Means Clustering
+- Hierarchical Clustering
 
-#### Class 4: Practical Homomorphic Encryption
-- Implementing homomorphic encryption
-- Tools and libraries (Microsoft SEAL, PySyft)
-- Hands-on coding session
+### Class 4: Unsupervised Learning Algorithms (Continued)
+- Principal Component Analysis (PCA) for dimensionality reduction
+- Association Rule Learning (e.g., Apriori algorithm)
 
-#### Class 5: Combining SMPC and Homomorphic Encryption
-- Use cases combining both techniques
-- Practical examples and case studies
-- Discussion and Q&A
+### Class 5: Privacy Risks in Unsupervised Learning
+- Privacy-Preserving Clustering Techniques
+- Anonymization in Dimensionality Reduction
 
-### Week 6: Privacy-Preserving Machine Learning Applications
-**Introduction:** This week focuses on applying the learned techniques to real-world scenarios, culminating in a final project.
-
-#### Class 1: Privacy in Healthcare
-- Importance of privacy in healthcare data
-- Case studies and applications
-- Discussion and examples
-
-#### Class 2: Privacy in Finance
-- Privacy challenges in financial data
-- Case studies and applications
-- Discussion and examples
-
-#### Class 3: Privacy in Social Media
-- Privacy concerns in social media
-- Case studies and applications
-- Discussion and examples
-
-#### Class 4: Final Project Preparation
-- Introduction to the final project
-- Guidelines and expectations
-- Initial project brainstorming
-
-#### Class 5: Final Project Presentation
-- Students present their projects
-- Feedback and discussion
-- Course wrap-up and future directions
+## Additional Topics (Optional)
+- Unit Testing, Feature Store, Model Registries
+- Containerization with Docker
+- Introduction to Time Series Analysis
+- Machine Learning Competitions
