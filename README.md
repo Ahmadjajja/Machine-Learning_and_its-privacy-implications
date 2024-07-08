@@ -2,15 +2,18 @@
 
 This course aims to teach the fundamentals of machine learning from scratch while also addressing the privacy implications at each step of the process. The curriculum is designed to provide a comprehensive understanding of machine learning techniques and their privacy considerations.
 
+<h3 align="center">Course Started: 8th July - Current</h3>
+
 ## Table of Contents
 
-- [Trainers and Moderators](#trainers-and-moderators)
+- [Trainers](#trainers)
+- [Moderators](#moderators)
 - [Prerequisites](#prerequisites)
 - [Course Outline](#course-outline)
 - [Resources](#resources)
 - [Contact](#contact)
 
-## Trainers and Moderators
+## Trainers
 
 <table >
   <tbody>
@@ -36,6 +39,14 @@ This course aims to teach the fundamentals of machine learning from scratch whil
           <sub><b>Zartashia Afzal</b></sub>
         </a> 
       </td>
+   </tr>
+  </tbody>
+<table>
+  
+## Moderators
+<table >
+  <tbody>
+    <tr>
       <td align="center">
         <a href="https://github.com/Mahnoormalik123">
           <img src="https://avatars.githubusercontent.com/u/154795582?v=4" width="100px;" alt="Mahnoor Malik"/>
@@ -74,8 +85,6 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 
 ## Course Outline
 
-<h3 align="center">Course Started: 8th July - Current</h3>
-
 ### Module 1: Introduction to Machine Learning
 
 - **What is Machine Learning?**
@@ -84,6 +93,7 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 - **Importance of Machine Learning in the Generative AI Era (Optional)**
 - **Introduction to Differential Privacy (DP)**
   - **Definition and Importance**
+- [Class 1 Video Link](https://www.facebook.com/iCodeguru/videos/1140906600544854)
 
 ### Module 2: Python for Machine Learning (Optional)
 
@@ -160,11 +170,3 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 - **Containerization with Docker**
 - **Introduction to Time Series Analysis**
 - **Machine Learning Competitions**
-
-## Resources
-
-- Did you miss your session? Don't worry! You can watch the recorded lecture from this <a href="./Material">folder</a>.
-
-## Contact
-
-- Join our community on [iCodeGuru](www.icode.guru/join) to connect with fellow learners and volunteer mentors.
