@@ -2,7 +2,80 @@
 
 This course aims to teach the fundamentals of machine learning from scratch while also addressing the privacy implications at each step of the process. The curriculum is designed to provide a comprehensive understanding of machine learning techniques and their privacy considerations.
 
-## Module 1: Introduction to Machine Learning
+## Table of Contents
+
+- [Trainers and Moderators](#trainers-and-moderators)
+- [Prerequisites](#prerequisites)
+- [Course Outline](#course-outline)
+- [Resources](#resources)
+- [Contact](#contact)
+
+## Trainers and Moderators
+
+<table >
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Ahmadjajja">
+        <img src="https://avatars.githubusercontent.com/u/86593662?v=4" width="100px;" alt="Ahmad Jajja"/>
+          <br />
+          <sub><b>Ahmad Jajja</b></sub>
+        </a> 
+      </td>
+      <td align="center">
+        <a href="https://github.com/A5jadAli">
+          <img src="https://avatars.githubusercontent.com/u/123229279?v=4" width="100px;" alt="Asjad_Ali"/>
+          <br />
+          <sub><b>Asjad Ali</b></sub>
+        </a> 
+      </td>
+      <td align="center">
+        <a href="https://github.com/zartashiafzal">
+          <img src="https://avatars.githubusercontent.com/u/65966739?v=4" width="100px;" alt="Zartashia Afzal"/>
+          <br />
+          <sub><b>Zartashia Afzal</b></sub>
+        </a> 
+      </td>
+      <td align="center">
+        <a href="https://github.com/Mahnoormalik123">
+          <img src="https://avatars.githubusercontent.com/u/154795582?v=4" width="100px;" alt="Mahnoor Malik"/>
+          <br />
+          <sub><b>Mahnoor Malik</b></sub>
+        </a> 
+      </td>
+      <td align="center">
+        <a href="https://github.com/arhamansari11">
+          <img src="https://avatars.githubusercontent.com/u/124850772?v=4" width="100px;" alt="Muhammad Arham"/>
+          <br />
+          <sub><b>Muhammad Arham</b></sub>
+        </a> 
+      </td>
+      <td align="center">
+        <a href="https://github.com/SherazAnwar25">
+          <img src="https://avatars.githubusercontent.com/u/153890380?v=4" width="100px;" alt="Sheraz Anwar"/>
+          <br />
+          <sub><b>Sheraz Anwar</b></sub>
+        </a> 
+      </td>
+      <td align="center">
+        <a href="https://github.com/sikander-nawaz">
+          <img src="https://avatars.githubusercontent.com/u/121254651?v=4" width="100px;" alt="Sikander Nawaz"/>
+          <br />
+          <sub><b>Sikander Nawaz</b></sub>
+        </a> 
+      </td>
+    </tr>
+  </tbody>
+<table>
+
+## Prerequisites
+
+- There are no prerequisites to join this course. You'll learn from zero to advanced level.
+
+## Course Outline
+
+### Module 1: Introduction to Machine Learning
+
 - **What is Machine Learning?**
 - **Applications of Machine Learning**
 - **Machine Learning Development Life Cycle (MLDLC)**
@@ -10,13 +83,15 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 - **Introduction to Differential Privacy (DP)**
   - **Definition and Importance**
 
-## Module 2: Python for Machine Learning (Optional)
+### Module 2: Python for Machine Learning (Optional)
+
 - **Introduction to Python Programming (if needed)**
 - **Libraries for Data Analysis: Pandas, NumPy**
 - **Introduction to Privacy Libraries in Python**
   - **Libraries for Implementing Differential Privacy: PySyft, PyTorch Opacus**
 
-## Module 3: Data Preprocessing and Feature Engineering
+### Module 3: Data Preprocessing and Feature Engineering
+
 - **Data Analysis and Preprocessing Techniques**
 - **Data Cleaning: Handling Missing Data, Categorical Features, Outliers**
 - **Data Visualization with Seaborn and Matplotlib**
@@ -26,14 +101,16 @@ This course aims to teach the fundamentals of machine learning from scratch whil
   - **Anonymization Techniques**
   - **Privacy Risks in Data Preprocessing**
 
-## Module 4: Machine Learning Fundamentals
+### Module 4: Machine Learning Fundamentals
+
 - **Learning Approaches: Batch vs Online, Model-based vs Instance-based**
 - **Types of Machine Learning: Supervised, Unsupervised, Semi-Supervised, Reinforcement Learning**
 - **Privacy Risks in Different Learning Approaches**
   - **Supervised Learning: Risks of Label Leakage**
   - **Unsupervised Learning: Risks in Clustering and Association**
 
-## Module 5: Supervised Learning Algorithms
+### Module 5: Supervised Learning Algorithms
+
 - **Introduction to Supervised Learning**
 - **Regression vs. Classification**
 - **Regression Algorithms: Simple Linear Regression, Multilinear Regression, Polynomial Regression (with applications like house price prediction)**
@@ -42,7 +119,8 @@ This course aims to teach the fundamentals of machine learning from scratch whil
   - **Noise Addition in Regression Models**
   - **Privacy-Preserving Decision Trees**
 
-## Module 6: Model Evaluation and Optimization
+### Module 6: Model Evaluation and Optimization
+
 - **Regression and Classification Metrics**
 - **Imbalanced Data in Machine Learning**
 - **Underfitting vs Overfitting**
@@ -52,7 +130,8 @@ This course aims to teach the fundamentals of machine learning from scratch whil
   - **Metrics for Assessing Privacy Risks**
   - **Differential Privacy in Model Optimization**
 
-## Module 7: Model Interpretation and Deployment
+### Module 7: Model Interpretation and Deployment
+
 - **Model Interpretability and Explainable AI (XAI)**
 - **Model Deployment with Flask (or similar framework)**
 - **Privacy Concerns in Model Interpretation**
@@ -60,7 +139,8 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 - **Privacy-Preserving Model Deployment**
   - **Secure Multi-Party Computation for Model Serving**
 
-## Module 8: Unsupervised Machine Learning 
+### Module 8: Unsupervised Machine Learning
+
 - **Unsupervised Learning goals (e.g., clustering, dimensionality reduction)**
 - **Common applications (e.g., customer segmentation, anomaly detection)**
 - **Specific algorithms:**
@@ -72,8 +152,17 @@ This course aims to teach the fundamentals of machine learning from scratch whil
   - **Privacy-Preserving Clustering Techniques**
   - **Anonymization in Dimensionality Reduction**
 
-## Additional Topics (Optional)
+### Additional Topics (Optional)
+
 - **Unit Testing, Feature Store, Model Registries**
 - **Containerization with Docker**
 - **Introduction to Time Series Analysis**
 - **Machine Learning Competitions**
+
+## Resources
+
+- Did you miss your session? Don't worry! You can watch the recorded lecture from this file.
+
+## Contact
+
+- For any queries or suggestions, please reach out to us at iCodeGuru.
