@@ -74,7 +74,7 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 
 ## Course Outline
 
-### Course Started: 8th July - Current
+<h3 align="center">Course Started: 8th July - Current</h3>
 
 ### Module 1: Introduction to Machine Learning
 
