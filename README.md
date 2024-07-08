@@ -167,4 +167,4 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 
 ## Contact
 
-- For any queries or suggestions, please reach out to us at iCodeGuru.
+- For any queries or suggestions, please reach out to us at [iCodeGuru](https://icode.guru/join/).
