@@ -163,8 +163,8 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 
 ## Resources
 
-- Did you miss your session? Don't worry! You can watch the recorded lecture from this file.
+- Did you miss your session? Don't worry! You can watch the recorded lecture from this <a href="./Material">folder</a>.
 
 ## Contact
 
-- For any queries or suggestions, please reach out to us at [iCodeGuru](https://icode.guru/join/).
+- Join our community on [iCodeGuru](www.icode.guru/join) to connect with fellow learners and volunteer mentors.
