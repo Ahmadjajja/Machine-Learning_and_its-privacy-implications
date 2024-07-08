@@ -10,8 +10,6 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 - [Moderators](#moderators)
 - [Prerequisites](#prerequisites)
 - [Course Outline](#course-outline)
-- [Resources](#resources)
-- [Contact](#contact)
 
 ## Trainers
 
