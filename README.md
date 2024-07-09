@@ -91,6 +91,7 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 - **Introduction to Differential Privacy (DP)**
   - **Definition and Importance**
 - [Class 1 Video Link](https://www.facebook.com/iCodeguru/videos/1140906600544854)
+- [Class 2 Video Link](https://www.facebook.com/iCodeguru/videos/1172562033868588/)
 
 ### Module 2: Python for Machine Learning (Optional)
 
