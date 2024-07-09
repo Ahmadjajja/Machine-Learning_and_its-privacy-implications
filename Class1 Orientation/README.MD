@@ -12,4 +12,4 @@ This first class covered the following:
 
 <br />
 
-[Class 1 Video Link](https://www.facebook.com/iCodeguru/videos/1140906600544854)
+[Class 1 Video Link](https://www.facebook.com/iCodeguru/videos/1140906600544854)  s
