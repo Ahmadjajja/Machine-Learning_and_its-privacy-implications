@@ -1,4 +1,6 @@
-# Class Agenda
+*July 8, 2024 | Week 1 | Day 2*
+---
+# Agenda
 
 This first class covered the following:
 
