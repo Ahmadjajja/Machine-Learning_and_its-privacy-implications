@@ -9,5 +9,7 @@ This first class covered the following:
 -  Guided participants on maximizing their benefits as part of the community.
 -  Addressed all participant questions.
 -  Launched the session with an introduction to machine learning and its distinction from traditional programming with examples.
+
 <br />
+
 [Class 1 Video Link](https://www.facebook.com/iCodeguru/videos/1140906600544854)
