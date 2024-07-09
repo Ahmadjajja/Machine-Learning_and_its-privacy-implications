@@ -1,4 +1,4 @@
-*July 8, 2024 | Week 1 | Day 2*
+*July 8, 2024 | Week 1 | Day 1*
 ---
 # Agenda
 
