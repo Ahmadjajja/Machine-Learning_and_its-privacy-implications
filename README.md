@@ -1,4 +1,5 @@
 # Machine Learning from Scratch & Its Privacy Implications
+
 ## Begin Date: 8th July - Ongoing
 
 This course aims to teach the fundamentals of machine learning from scratch while also addressing the privacy implications at each step of the process. The curriculum is designed to provide a comprehensive understanding of machine learning techniques and their privacy considerations.
@@ -92,6 +93,7 @@ This course aims to teach the fundamentals of machine learning from scratch whil
   - **Definition and Importance**
 - [Class 1 Video Link](https://www.facebook.com/iCodeguru/videos/1140906600544854)
 - [Class 2 Video Link](https://www.facebook.com/iCodeguru/videos/1172562033868588/)
+- [Class 2 Video Link](https://www.facebook.com/iCodeguru/videos/380675287961626)
 
 ### Module 2: Python for Machine Learning (Optional)
 
