@@ -1,0 +1,21 @@
+
+Privacy Applications in Machine Learning:
+
+1. Federated learning
+
+	- without transfering the data to central server (google gboad keyboard)
+
+2. Secure Multi-Party Computation
+
+	- example, multiple banks collaborate with each other for fraud detection but make to not share a single user data 
+	  with any other company to make sure the privacy of user
+
+3. Homomorphic Encryption:
+	
+	- In healthcare, encrypting the patient data before sending to the third part such model to perform analysis
+          & getting insights in the form of ecrypted data, At the end, we have decrypt the results to see it for privacy 
+          of patient data.
+
+4. Privacy-Preserving Data Publishing: 
+
+	- Publishing any user's data to social media without revealing their name.
