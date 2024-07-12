@@ -95,6 +95,7 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 - [Class 2 Video Link](https://www.facebook.com/iCodeguru/videos/1172562033868588/)
 - [Class 3 Video Link](https://www.facebook.com/iCodeguru/videos/380675287961626)
 - [Class 4 Video Link](https://www.facebook.com/iCodeguru/videos/489366656910032)
+- [Class 5 Video Link](https://www.facebook.com/iCodeguru/videos/396304176791613) 
 
 ### Module 2: Python for Machine Learning (Optional)
 
