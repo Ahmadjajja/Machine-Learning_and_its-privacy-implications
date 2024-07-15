@@ -3,7 +3,7 @@
 **Contents covered include:**
 
 - Overview of Python Programming
-- Discuss libraries for Data Analysis.
+- Discuss libraries for Data Analysis
   - Panda
   - NumPy
 - General Questions/Answers
