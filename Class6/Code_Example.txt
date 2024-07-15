@@ -1,0 +1,8 @@
+This was the code: 
+# Creating a list with mixed data types, including a dictionary
+mixed_list = [1, 2.5, '3', {'key': 'value'}, 4.7, 5]
+
+# Creating a NumPy array from the mixed data type list
+arr = np.array(mixed_list)
+
+print(arr)
