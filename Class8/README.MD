@@ -2,7 +2,7 @@
 
 **Contents covered include:**
 
-- Attributes of Pandas
+- Attributes of Pandas:
 
   - Importing pandas and creating a dataframe
   - Creating dataframe
