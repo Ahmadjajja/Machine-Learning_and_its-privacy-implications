@@ -104,6 +104,7 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 - **Introduction to Privacy Libraries in Python**
   - **Libraries for Implementing Differential Privacy: PySyft, PyTorch Opacus**
 - [Class 6 Video Link](https://www.facebook.com/iCodeguru/videos/296444603534700)
+- [Class 8 Video Link](https://www.facebook.com/iCodeguru/videos/506803148528787)
 
 ### Module 3: Data Preprocessing and Feature Engineering
 

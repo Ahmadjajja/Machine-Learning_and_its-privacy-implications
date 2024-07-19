@@ -1,0 +1,78 @@
+This was the code: 
+
+# Importing pandas and creating a dataframe
+import pandas as pd
+# creating dataframe
+data = {
+    'Name' : ['Ahmad', 'Ali', 'Hamza'],
+    'Age' : [22, 21, 20],
+    'City': ['FSD', "LHR", "ISB"]
+}
+
+df = pd.DataFrame(data)
+print(df)
+print("______________________")
+
+# Head and Tail
+print(df.head(2))
+print(df.tail(2))
+
+# Info
+print(df.info())
+
+
+# Describe
+print(df.describe())
+
+# Selecting Columns
+print(df[['Age', 'Name']])
+
+# Selecting Rows
+
+print(df.loc[1:2])
+print("__________")
+print(df.iloc[1:3])
+
+# Filtering Data
+print(df[df['Age'] >= 21])
+
+# Adding a New Column
+df['Degree'] = ['BSCS', "BSSE", "BSIT"]
+
+print(df)
+print("_____________")
+
+
+# Dropping a Column
+df = df.drop("Degree", axis=1)
+print(df)
+
+# Merging DataFrames
+data2 = {
+    'City': ['FSD', "LHR", "ISB"],
+    'population': [876543, 87654, 43254]
+}
+
+# df2 = pd.DataFrame(data2)
+
+merged_df = pd.merge(df, df2, on='City')
+print(merged_df)
+
+
+# Handling Missing Values
+data3 = {
+    'City': ['FSD', None, "ISB"],
+    'population': [None, 87654, 43254]
+}
+
+df3 = pd.DataFrame(data3)
+print(df3)
+print("__________________")
+
+df3_filled = df3.fillna("UnKnown")
+print(df3_filled)
+print("__________________")
+
+
+df3_dropped = df3.dropna()
+print(df3_dropped)
