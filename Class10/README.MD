@@ -5,7 +5,8 @@
 - Applied Pandas functions on Homelessness dataset
 - index_col
 - Parts of dataframe
-- Sorting and subsetting
+- Sorting (single columns, multiple columns, multiple column different directions)
+- Subsetting
 - Grouping and aggregating
 - Data manipulation
 - Filtering values
