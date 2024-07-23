@@ -117,6 +117,8 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 - **Privacy-Preserving Data Preprocessing**
   - **Anonymization Techniques**
   - **Privacy Risks in Data Preprocessing**
+- [Class 9 Video Link](https://www.facebook.com/iCodeguru/videos/503766618767054)
+- [Class 10 Video Link](https://www.facebook.com/iCodeguru/videos/3279815862154411)
 
 ### Module 4: Machine Learning Fundamentals
 
