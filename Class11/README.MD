@@ -1,7 +1,7 @@
 ## _July 24, 2024 | Week 3 | Day 3_
 
 **Contents covered include:**
-- Applied Pandas functions on Homelessness dataset
+- Applied Pandas functions on Homelessness and sales dataset
 - Using operators for filtering data
 - isin()
 - groupby()
