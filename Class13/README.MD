@@ -55,4 +55,4 @@
 - Recap of key points covered in the session
 - Open floor for questions and clarifications
 
-- [Class 12 Video Link](https://www.facebook.com/iCodeguru/videos/842121497495971)
+- [Class 13 Video Link](https://www.facebook.com/iCodeguru/videos/842121497495971)
