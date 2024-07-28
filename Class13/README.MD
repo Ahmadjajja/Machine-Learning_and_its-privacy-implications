@@ -1,4 +1,4 @@
-## _July 24, 2024 | Week 3 | Day 5_
+## _July 26, 2024 | Week 3 | Day 5_
 
 **Contents covered include:**
 
