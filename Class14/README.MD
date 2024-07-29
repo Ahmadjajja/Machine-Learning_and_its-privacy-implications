@@ -2,8 +2,6 @@
 
 **Contents covered include:**
 
-### Today's Machine Learning Class Agenda
-
 - One Hot Encoding
 
   - Revision of one hot encoding
