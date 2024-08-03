@@ -126,6 +126,7 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 - [Class 15 Video Link](https://www.facebook.com/iCodeguru/videos/1153940089225901)
 - [Class 16 Video Link](https://web.facebook.com/iCodeguru/videos/517459164056447)
 - [Class 17 Video Link](https://web.facebook.com/iCodeguru/videos/1007156847751102)
+- [Class 18 Video Link](https://www.facebook.com/iCodeguru/videos/782806057093677)
 
 ### Module 4: Machine Learning Fundamentals
 
