@@ -4,4 +4,5 @@
 
 - Standardization and normalization
 - Kaggle
+- Overfitting Vs Underfitting
 - [Class 19 Video Link](https://www.facebook.com/iCodeguru/videos/876352897725102/)
