@@ -2,7 +2,10 @@
 
 **Contents covered include:**
 
-- Standardization and normalization
-- Kaggle
-- Overfitting Vs Underfitting
+- Introduction to Data Preprocessing
+- Understanding Standardization and Normalization
+- Practical Example with Python Code
+- Overfitting and Underfitting
+- Kaggle Competitions as a Learning Platform
+
 - [Class 19 Video Link](https://www.facebook.com/iCodeguru/videos/876352897725102/)
