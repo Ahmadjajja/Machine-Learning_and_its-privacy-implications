@@ -16,4 +16,4 @@
 
 - [Scikit-Learn](https://scikit-learn.org/stable/)
 
-- [Class 20 Video Link](https://www.facebook.com/iCodeguru/videos/1565454680981628)
+- [Class 21 Video Link](https://www.facebook.com/iCodeguru/videos/1565454680981628)
