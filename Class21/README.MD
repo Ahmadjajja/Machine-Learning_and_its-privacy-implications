@@ -1,4 +1,4 @@
-## _August 06, 2024 | Week 5 | Day 2_
+## _August 07, 2024 | Week 5 | Day 3_
 
 **Contents covered include:**
 
