@@ -129,7 +129,7 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 - [Class 18 Video Link](https://www.facebook.com/iCodeguru/videos/782806057093677)
 - [Class 19 Video Link](https://www.facebook.com/iCodeguru/videos/876352897725102/)
 - [Class 20 Video Link](https://www.facebook.com/iCodeguru/videos/1323471588452378)
-- [Class 21 Video Link](https://www.facebook.com/iCodeguru/videos/1565454680981628)
+- [Class 21 Video Link](https://www.facebook.com/iCodeguru/videos/413629985029427)
 - [Class 22 Video Link](https://www.facebook.com/iCodeguru/videos/1018825216109320)
 - [Class 23 Video Link](https://www.facebook.com/iCodeguru/videos/544964651216277)
 
