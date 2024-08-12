@@ -11,5 +11,4 @@
 **Additional Resources:**
 
 - [Article Link](https://www.analyticsvidhya.com/blog/2021/07/metrics-to-evaluate-your-classification-model-to-take-the-right-decisions/)
-
 - [Class 24 Video Link](https://www.facebook.com/iCodeguru/videos/1168843607708830)
