@@ -163,6 +163,7 @@ This course aims to teach the fundamentals of machine learning from scratch whil
   - **Differential Privacy in Model Optimization**
 - [Class 24 Video Link](https://www.facebook.com/iCodeguru/videos/1168843607708830)
 - [Class 25 Video Link](https://web.facebook.com/iCodeguru/videos/1930278197423471/)
+- [Class 27 Video Link](https://www.facebook.com/iCodeguru/videos/1197321291583796)
 
 ### Module 7: Model Interpretation and Deployment
 
