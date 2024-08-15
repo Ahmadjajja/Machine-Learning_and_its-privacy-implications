@@ -5,3 +5,4 @@
 * Discussion about GenAI
 * Pretrained models available on hugging face and required resources
 * Kaggle [mushroom dataset](https://www.kaggle.com/competitions/playground-series-s4e8/overview) overview and data exploration
+* [Class 26 Video Link](https://www.facebook.com/iCodeguru/videos/1243668773297682)
