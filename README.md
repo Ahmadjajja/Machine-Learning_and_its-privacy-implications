@@ -174,6 +174,7 @@ This course aims to teach the fundamentals of machine learning from scratch whil
   - **Risks of Exposing Sensitive Information through Interpretability**
 - **Privacy-Preserving Model Deployment**
   - **Secure Multi-Party Computation for Model Serving**
+[Class 28 Video Link](https://web.facebook.com/watch/?v=1657940491631428)
 
 ### Module 8: Unsupervised Machine Learning
 
