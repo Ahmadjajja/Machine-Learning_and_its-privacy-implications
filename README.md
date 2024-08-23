@@ -175,6 +175,7 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 - **Privacy-Preserving Model Deployment**
   - **Secure Multi-Party Computation for Model Serving**
 [Class 28 Video Link](https://web.facebook.com/watch/?v=1657940491631428)
+[Class 29 Video Link](https://web.facebook.com/iCodeguru/videos/3763928390593592)
 
 ### Module 8: Unsupervised Machine Learning
 
