@@ -179,6 +179,7 @@ This course aims to teach the fundamentals of machine learning from scratch whil
 - [Class 30 Video Link](https://web.facebook.com/iCodeguru/videos/4196521850634064)
 - [Class 31 Video Link](https://web.facebook.com/iCodeguru/videos/1202049024146854)
 - [Class 33 Video Link](https://web.facebook.com/iCodeguru/videos/1013797100283976)
+- [Class 34 Video Link](https://www.facebook.com/iCodeguru/videos/1834705580352310/)
 
 ### Module 8: Unsupervised Machine Learning
 
