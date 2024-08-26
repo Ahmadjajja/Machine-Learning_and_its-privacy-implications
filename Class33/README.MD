@@ -1,4 +1,4 @@
-## _August 20, 2024 | Week 7| Day 5_
+## _August 23, 2024 | Week 7| Day 5_
 
 **Contents covered include:**
 
