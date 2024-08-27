@@ -2,8 +2,8 @@
 
 **Contents covered include:**
 
-* Handling outliers
-* Impact analysis of outliers
-* Machine learning pipeline for binary class prediction
+- Handling Outliers
+- Impact Analysis of Outliers
+- Machine Learning Pipeline for Binary Class Prediction
 
 [Class 34 Video Link](https://www.facebook.com/iCodeguru/videos/1834705580352310/)
