@@ -1,6 +1,6 @@
 # Machine Learning from Scratch & Its Privacy Implications
 
-## Begin Date: 8th July - Ongoing
+## Begin Date: 8th July - 27th Aug
 
 This course aims to teach the fundamentals of machine learning from scratch while also addressing the privacy implications at each step of the process. The curriculum is designed to provide a comprehensive understanding of machine learning techniques and their privacy considerations.
 
